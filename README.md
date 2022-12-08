@@ -1,5 +1,5 @@
 - 🔭 Back-end / Front-end
-- 🌱 Estudando C# | JavaScript | PHP | C#
+- 🌱 Study PL/SQL | JavaScript | JQuery | Oracle Application Apex
 - 👯 Contato: kaue1castelani@gmail.com
 
 <div align="center">
