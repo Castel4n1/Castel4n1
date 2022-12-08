@@ -1,6 +1,6 @@
 - 🔭 Back-end / Front-end
 - 🌱 Study PL/SQL | JavaScript | JQuery | Oracle Application Apex
-- 👯 Contato: kaue1castelani@gmail.com
+- 👯 Contact : kaue1castelani@gmail.com
 
 <div align="center">
   <a href="https://github.com/Castel4n1">
